@@ -6,7 +6,7 @@ Hi, there!! I am Kostanca Kovaci and this is **40 Days of SQL**, focusing on the
 **Level:** Beginner → Advanced
 **Outcome:** You’ll confidently query, analyze, and transform data like a professional
 
---
+---
 
 ## COURSE STRUCTURE (Roadmap)
 ### MODULE 1 — Foundations (SQL Thinking)
