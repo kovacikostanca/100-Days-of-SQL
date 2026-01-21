@@ -75,7 +75,5 @@ Hi, there!! I am Kostanca Kovaci and this is **100 Days of SQL**, focusing on th
 
 36. Sales analysis
 37. User behavior analysis
-
-Product metrics
-
-SQL interview questions walkthrough
+39. Product metrics
+40. SQL interview questions walkthrough
